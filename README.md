@@ -31,5 +31,5 @@ In case you need to run them separately, the last two code cells contain Task1 a
 Processing one image take between 2-4 seconds. 
 
 ### Additional information:
-The positive and negative descriptors have large files that could not be uploaded to GitHub and the images used for training are too many. The current code on GitHub cannot run.
+The positive and negative descriptors have large files that could not be uploaded to GitHub and the images used for training are too many.
 
