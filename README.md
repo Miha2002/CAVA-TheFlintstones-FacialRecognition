@@ -19,9 +19,10 @@ Script: Proiect2.ipynb
 
 ### Function: 
 If the project has been altered, you will also need to change the following paths in the Parameters class:
-	- dir_test_examples 	-> directory for the images you want to test
-	- dir_result 		-> directory for output
-	- dir_save_files	-> directory where you have the models and descriptors
+
+- dir_test_examples 	-> directory for the images you want to test
+- dir_result 		-> directory for output
+- dir_save_files	-> directory where you have the models and descriptors
 
 After the changes, run all the code. 
 In case you need to run them separately, the last two code cells contain Task1 and Task2.
