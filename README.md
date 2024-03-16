@@ -5,11 +5,11 @@
 - copy
 - timeit
 - ntpath
-- numpy			== 1.24.3
+- numpy			      == 1.24.3
 - opencv_python		== 4.8.1.78
-- glob2			== 0.7
-- pickleshare		== 0.7.5
-- matplotlib		== 3.7.2
+- glob2		      	== 0.7
+- pickleshare	  	== 0.7.5
+- matplotlib		  == 3.7.2
 - scikit-learn		== 1.3.0
 - scikit-image 		== 0.20.0
 
