@@ -16,9 +16,11 @@
 
 ## Task 1 & Task 2
 Script:
+
 Proiect2.ipynb
 
 Function: 
+
 If the project has been altered, you will also need to change the following paths in the Parameters class:
 
 - dir_test_examples 	-> directory for the images you want to test
